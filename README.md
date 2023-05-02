@@ -1,2 +1,2 @@
 # Erlang And Elixir
-Erlang and elixir programs for university course
+Basics of Erlang and in near future also elixir.
